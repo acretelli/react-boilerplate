@@ -1,6 +1,7 @@
 {
   "name": "boilerplate",
   "version": "0.1.0",
+  "author": "Anna Fernandes",
   "private": true,
   "scripts": {
     "dev": "next dev",
