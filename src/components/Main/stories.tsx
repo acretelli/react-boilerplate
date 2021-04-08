@@ -14,7 +14,7 @@ export const Basic: Story = (args) => <Main {...args} />
 
 Basic.args = {
   title: 'Digite aqui um título básico',
-  description: 'Disgite aqui uma descrição básica'
+  description: 'Digite aqui uma descrição básica'
 }
 
 export const Default: Story = (args) => <Main {...args} />
